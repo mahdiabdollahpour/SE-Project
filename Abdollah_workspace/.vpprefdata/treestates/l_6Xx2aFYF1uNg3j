@@ -3,8 +3,8 @@
 	<TreeState name="ModelRepository" viewX="0" viewY="0"/>
 	<TreeState name="DiagramNavigator" viewX="0" viewY="0">
 		<ExpandedPath>DiagramNavigator</ExpandedPath>
-		<SelectedPath>DiagramNavigator,Database Modeling</SelectedPath>
 		<SelectedPath>DiagramNavigator,UML Diagrams</SelectedPath>
+		<SelectedPath>DiagramNavigator,Database Modeling</SelectedPath>
 	</TreeState>
 	<TreeState name="ClassBrowser" viewX="0" viewY="0"/>
 	<TreeState name="LogicalView" viewX="0" viewY="0"/>
