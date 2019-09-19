@@ -12,4 +12,4 @@ requirement specification and desgin of a messenger
 + appendix
 
 ## specification
-report.pdf
+Requirments Specification + Design-final-edition.pdf
